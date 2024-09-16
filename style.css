@@ -30,3 +30,11 @@ h1{
     font-family: Helvetica, sans-serif;
 }
 
+.projects{
+    width: 50%;
+    margin-left: 25%;
+    margin: 100px;
+    text-align: center;
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
